@@ -8,7 +8,7 @@ from queue import Queue
 
 
 
-#target = "xxxx.xxx.xx"
+#target = "xxxx.xxxx.xxxx.xxxx"
 queue = Queue()
 open_ports =[]
 
